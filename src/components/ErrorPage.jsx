@@ -33,7 +33,7 @@ function ErrorPage({ error }) {
             css={{ position: "absolute", size: "100%", top: "33.33%", left: 0 }}
           >
             <image
-              src="{../images/viccci.png}"
+              src="{../images/image.png}"
               alt="logo"
               width={30}
               height={40}
@@ -61,7 +61,7 @@ function ErrorPage({ error }) {
             <br />
             <br />
             <br />
-            <footer class="footer">Created By Viccci Protcol</footer>
+            <footer class="footer">Created By ART Emerged</footer>
           </Flex>
         ) : (
           <Flex
@@ -70,7 +70,7 @@ function ErrorPage({ error }) {
             height={200}
             css={{ position: "absolute", size: "100%", top: "33.33%", left: 0 }}
           >
-            <Text variant="h3">V Spaces</Text>
+            <Text variant="h3">Viewer Advisory</Text>
             <Text
               variant="body1"
               css={{ margin: "1.75rem", textAlign: "center" }}
