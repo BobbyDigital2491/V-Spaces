@@ -18,9 +18,9 @@ const JoinForm = () => {
 
   const handleJoinClick = () => {
     //API calls here
-    if (enteredPassword === "Multi Millions") {
+    if (enteredPassword === "ARt Emerged") {
       navigate("/preview/638b82b2ea4ced3e8758a760/host");
-    } else if (enteredPassword === "Focus and Dedication") {
+    } else if (enteredPassword === "Viewer Advisory") {
       navigate("/preview/63e6cb21da7e7ca812840c51/host");
     } else if (enteredPassword === "dapp365347") {
       navigate("/preview/638b82b2ea4ced3e8758a760/guest");
